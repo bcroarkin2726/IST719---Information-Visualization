@@ -1,0 +1,2 @@
+# IST719---Information-Visualization
+This course will introduce students to skills and techniques related to information visualization. In this skills-based course, students will be introduced to the R programming language, Adobe Illustrator, simple data cleaning techniques, simple design concepts and the ethics of visualizing data. The focus is on developing static data visualizations to visually explore and communicate findings using data from a variety of sources. Conceptual themes will be presented alongside technical aspects of data visualization.
